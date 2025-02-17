@@ -3,9 +3,9 @@ import json
 import time
 
 # Configurações do Zendesk
-SUBDOMINIO = "linktelwifi01"
-EMAIL = "sysapi@linktelwifi.com/token"
-TOKEN = "mNstaBe4NTjVNoLzLfQiiTZu7g5Clh8vdy19G1Pj"
+SUBDOMINIO = "subdominio"
+EMAIL = "your e-mail/token"
+TOKEN = "your token"
 HEADERS = {"Content-Type": "application/json"}
 
 # URL da API do Zendesk
